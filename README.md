@@ -1,0 +1,1 @@
+this is a layout for imitating google layout of the homepage
